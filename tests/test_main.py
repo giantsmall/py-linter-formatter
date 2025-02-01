@@ -1,4 +1,4 @@
-from typing import Any, Literal
+from typing import Any, Callable, Literal
 import pytest
 import ast
 import inspect
